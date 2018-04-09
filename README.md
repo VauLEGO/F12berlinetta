@@ -1,9 +1,5 @@
 # Ferrari 40191
 
-<img src="pictures/X-01.jpg"  width="800">
-
-<img src="pictures/X-02.jpg"  width="800">
-
 <img src="pictures/X-03.jpg"  width="800">
 
 <img src="pictures/X-04.jpg"  width="800">
@@ -39,6 +35,10 @@
 <img src="pictures/lego01a.jpg"  width="800">
 
 <img src="pictures/lego01b.jpg"  width="800">
+
+<img src="pictures/X-01.jpg"  width="800">
+
+<img src="pictures/X-02.jpg"  width="800">
 
 <img src="pictures/lego01c.jpg"  width="800">
 
