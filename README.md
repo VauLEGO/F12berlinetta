@@ -16,6 +16,8 @@
 
 <img src="pictures/X-03.jpg"  width="800">
 
+<img src="pictures/lego02b.jpg"  width="800">
+
 <img src="pictures/X-04.jpg"  width="800">
 
 <img src="pictures/X-05.jpg"  width="800">
@@ -43,8 +45,6 @@
 <img src="pictures/X-16.jpg"  width="800">
 
 <img src="pictures/X-17.jpg"  width="800">
-
-<img src="pictures/lego02b.jpg"  width="800">
 
 <img src="pictures/lego02c.jpg"  width="800">
 
