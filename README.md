@@ -32,11 +32,11 @@
 
 <img src="pictures/L0040.jpg"  width="800">
 
+<img src="pictures/X-03.jpg"  width="800">
+
 <img src="pictures/L0041.jpg"  width="800">
 
 <img src="pictures/L0042.jpg"  width="800">
-
-<img src="pictures/X-03.jpg"  width="800">
 
 <img src="pictures/lego02d.jpg"  width="800">
 
@@ -57,6 +57,12 @@
 <img src="pictures/X-08.jpg"  width="800">
 
 <img src="pictures/lego03c.jpg"  width="800">
+
+<img src="pictures/L0081.jpg"  width="800">
+
+<img src="pictures/L0090.jpg"  width="800">
+
+<img src="pictures/L0091.jpg"  width="800">
 
 <img src="pictures/X-09.jpg"  width="800">
 
@@ -121,12 +127,6 @@
 <img src="pictures/L0071.jpg"  width="800">
 
 <img src="pictures/L0080.jpg"  width="800">
-
-<img src="pictures/L0081.jpg"  width="800">
-
-<img src="pictures/L0090.jpg"  width="800">
-
-<img src="pictures/L0091.jpg"  width="800">
 
 <img src="pictures/L0120.jpg"  width="800">
 
