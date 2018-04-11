@@ -141,7 +141,7 @@
 
 ## DISKLAIMER
 
-Terimakasih banyak kepada Ardhi Tomiarfi untuk peminjaman kameranya.
+Terimakasih banyak kepada Ardhi Tomiarfi atas peminjaman kameranya.
 
 Tulisan ini terutama untuk <b>KEPERLUAN SENDIRI</b> ---berbasis 
 "<i>Google Sana, Google Sini, Coba Itu, Coba Ini, Lalu Tanya-tanyi</i>".
@@ -151,5 +151,5 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-00--11-Apr-2018</a>
+01-111-Apr-2018</a>
 
