@@ -84,9 +84,9 @@
 
 <img src="pictures/L0101.jpg"  width="800">
 
-<img src="pictures/L0102.jpg"  width="800">
-
 <img src="pictures/X-11.jpg"  width="800">
+
+<img src="pictures/L0102.jpg"  width="800">
 
 <img src="pictures/lego04b.jpg"  width="800">
 
