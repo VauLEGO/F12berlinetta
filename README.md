@@ -110,15 +110,15 @@
 
 <img src="pictures/L0108.jpg"  width="800">
 
+<img src="pictures/X-14.jpg"  width="800">
+
+<img src="pictures/X-15.jpg"  width="800">
+
 <img src="pictures/lego05a.jpg"  width="800">
 
 <img src="pictures/L0109.jpg"  width="800">
 
 <img src="pictures/X-16.jpg"  width="800">
-
-<img src="pictures/X-14.jpg"  width="800">
-
-<img src="pictures/X-15.jpg"  width="800">
 
 <img src="pictures/lego05b.jpg"  width="800">
 
