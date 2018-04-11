@@ -94,13 +94,13 @@
 
 <img src="pictures/X-13.jpg"  width="800">
 
-<img src="pictures/lego04c.jpg"  width="800">
-
 <img src="pictures/L0103.jpg"  width="800">
 
 <img src="pictures/L0104.jpg"  width="800">
 
 <img src="pictures/L0105.jpg"  width="800">
+
+<img src="pictures/lego04c.jpg"  width="800">
 
 <img src="pictures/L0106.jpg"  width="800">
 
