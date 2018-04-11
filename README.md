@@ -10,11 +10,9 @@
 
 <img src="pictures/lego01b.jpg"  width="800">
 
-<img src="pictures/X-01.jpg"  width="800">
-
 <img src="pictures/lego01c.jpg"  width="800">
 
-<img src="pictures/X-02.jpg"  width="800">
+<img src="pictures/X-01.jpg"  width="800">
 
 <img src="pictures/L0020.jpg"  width="800">
 
@@ -23,6 +21,8 @@
 <img src="pictures/L0030.jpg"  width="800">
 
 <img src="pictures/L0031.jpg"  width="800">
+
+<img src="pictures/X-02.jpg"  width="800">
 
 <img src="pictures/L0032.jpg"  width="800">
 
