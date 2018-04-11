@@ -28,9 +28,9 @@
 
 <img src="pictures/L0033.jpg"  width="800">
 
-<img src="pictures/X-03.jpg"  width="800">
-
 <img src="pictures/lego02b.jpg"  width="800">
+
+<img src="pictures/X-03.jpg"  width="800">
 
 <img src="pictures/X-04.jpg"  width="800">
 
