@@ -88,8 +88,6 @@
 
 <img src="pictures/X-16.jpg"  width="800">
 
-<img src="pictures/X-17.jpg"  width="800">
-
 <img src="pictures/L0050.jpg"  width="800">
 
 <img src="pictures/L0060.jpg"  width="800">
@@ -135,6 +133,8 @@
 <img src="pictures/L0121.jpg"  width="800">
 
 <img src="pictures/L0122.jpg"  width="800">
+
+<img src="pictures/X-17.jpg"  width="800">
 
 
 ## DISKLAIMER
