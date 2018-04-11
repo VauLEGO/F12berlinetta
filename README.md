@@ -20,13 +20,13 @@
 
 <img src="pictures/L0031.jpg"  width="800">
 
+<img src="pictures/lego02a.jpg"  width="800">
+
 <img src="pictures/X-02.jpg"  width="800">
 
 <img src="pictures/L0032.jpg"  width="800">
 
 <img src="pictures/L0033.jpg"  width="800">
-
-<img src="pictures/lego02a.jpg"  width="800">
 
 <img src="pictures/X-03.jpg"  width="800">
 
