@@ -139,8 +139,9 @@
 
 ## DISKLAIMER
 
-<b>LEGO is a trademark of the LEGO Group of companies</b>.
-<b>Neither LEGO sponsor, authorize or endorse this site</b>.
+<b>LEGO and the LEGO logo are trademarks and/or copyrights of the LEGO Group.</b>
+<b>Ferrari S.p.A. is an Italian sports car manufacturer based in Maranello, Italy.</b>
+<b>Neither LEGO nor Ferrari sponsor, authorize or endorse this site.</b>
 
 Terimakasih banyak kepada Ardhi Tomiarfi atas peminjaman kameranya.
 
