@@ -88,8 +88,6 @@
 
 <img src="pictures/X-12.jpg"  width="800">
 
-<img src="pictures/lego04d.jpg"  width="800">
-
 <img src="pictures/X-13.jpg"  width="800">
 
 <img src="pictures/L0100.jpg"  width="800">
@@ -108,33 +106,35 @@
 
 <img src="pictures/L0107.jpg"  width="800">
 
+<img src="pictures/lego04d.jpg"  width="800">
+
 <img src="pictures/L0108.jpg"  width="800">
+
+<img src="pictures/lego05a.jpg"  width="800">
 
 <img src="pictures/L0109.jpg"  width="800">
 
 <img src="pictures/X-16.jpg"  width="800">
 
-<img src="pictures/lego05a.jpg"  width="800">
+<img src="pictures/X-14.jpg"  width="800">
+
+<img src="pictures/X-15.jpg"  width="800">
+
+<img src="pictures/lego05b.jpg"  width="800">
 
 <img src="pictures/L0110.jpg"  width="800">
 
 <img src="pictures/L0111.jpg"  width="800">
 
-<img src="pictures/X-14.jpg"  width="800">
-
-<img src="pictures/lego05b.jpg"  width="800">
-
-<img src="pictures/X-15.jpg"  width="800">
-
 <img src="pictures/lego05c.jpg"  width="800">
 
 <img src="pictures/L0120.jpg"  width="800">
 
+<img src="pictures/X-17.jpg"  width="800">
+
 <img src="pictures/L0121.jpg"  width="800">
 
 <img src="pictures/L0122.jpg"  width="800">
-
-<img src="pictures/X-17.jpg"  width="800">
 
 
 ## DISKLAIMER
@@ -153,5 +153,5 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-01-11-Apr-2018</a>
+02---11-Apr-2018</a>
 
