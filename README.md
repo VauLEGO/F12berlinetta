@@ -112,6 +112,8 @@
 
 <img src="pictures/L0109.jpg"  width="800">
 
+<img src="pictures/X-16.jpg"  width="800">
+
 <img src="pictures/lego05a.jpg"  width="800">
 
 <img src="pictures/L0110.jpg"  width="800">
@@ -125,8 +127,6 @@
 <img src="pictures/X-15.jpg"  width="800">
 
 <img src="pictures/lego05c.jpg"  width="800">
-
-<img src="pictures/X-16.jpg"  width="800">
 
 <img src="pictures/L0120.jpg"  width="800">
 
