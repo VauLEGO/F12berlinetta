@@ -16,6 +16,18 @@
 
 <img src="pictures/X-02.jpg"  width="800">
 
+<img src="pictures/L0020.jpg"  width="800">
+
+<img src="pictures/L0021.jpg"  width="800">
+
+<img src="pictures/L0030.jpg"  width="800">
+
+<img src="pictures/L0031.jpg"  width="800">
+
+<img src="pictures/L0032.jpg"  width="800">
+
+<img src="pictures/L0033.jpg"  width="800">
+
 <img src="pictures/lego02a.jpg"  width="800">
 
 <img src="pictures/X-03.jpg"  width="800">
@@ -73,18 +85,6 @@
 <img src="pictures/X-16.jpg"  width="800">
 
 <img src="pictures/X-17.jpg"  width="800">
-
-<img src="pictures/L0020.jpg"  width="800">
-
-<img src="pictures/L0021.jpg"  width="800">
-
-<img src="pictures/L0030.jpg"  width="800">
-
-<img src="pictures/L0031.jpg"  width="800">
-
-<img src="pictures/L0032.jpg"  width="800">
-
-<img src="pictures/L0033.jpg"  width="800">
 
 <img src="pictures/L0040.jpg"  width="800">
 
@@ -154,5 +154,5 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-01-111-Apr-2018</a>
+01-11-Apr-2018</a>
 
