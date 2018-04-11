@@ -1,6 +1,6 @@
-# Ferrari 40191
+# Ferrari Lego 40191
 
-<img src="pictures/lego06a.jpg"  width="800">
+<a href="https://lego.com/"><img src="pictures/lego06a.jpg"  width="800"></a>
 
 <img src="pictures/lego00.jpg"  width="800">
 
