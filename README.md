@@ -80,21 +80,21 @@
 
 <img src="pictures/lego04a.jpg"  width="800">
 
-<img src="pictures/lego04b.jpg"  width="800">
-
-<img src="pictures/X-11.jpg"  width="800">
-
-<img src="pictures/lego04c.jpg"  width="800">
-
-<img src="pictures/X-12.jpg"  width="800">
-
-<img src="pictures/X-13.jpg"  width="800">
-
 <img src="pictures/L0100.jpg"  width="800">
 
 <img src="pictures/L0101.jpg"  width="800">
 
 <img src="pictures/L0102.jpg"  width="800">
+
+<img src="pictures/X-11.jpg"  width="800">
+
+<img src="pictures/lego04b.jpg"  width="800">
+
+<img src="pictures/X-12.jpg"  width="800">
+
+<img src="pictures/X-13.jpg"  width="800">
+
+<img src="pictures/lego04c.jpg"  width="800">
 
 <img src="pictures/L0103.jpg"  width="800">
 
