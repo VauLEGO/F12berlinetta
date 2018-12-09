@@ -54,8 +54,6 @@
 
 <img src="pictures/X-06.jpg"  width="800">
 
-<img src="pictures/X-07.jpg"  width="800">
-
 <img src="pictures/lego03b.jpg"  width="800">
 
 <img src="pictures/X-10.jpg"  width="800">
