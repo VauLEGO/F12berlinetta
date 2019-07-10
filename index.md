@@ -1,23 +1,18 @@
 ---
 ---
+<h3><a href="https://github.com/VauLEGO/Ferrari40191/">GitHub</a></h3>
 
 <a href="https://lego.com/"><img src="pictures/lego06a.jpg"  width="800"></a>
-
-<img src="pictures/lego00.jpg"  width="800">
 
 <img src="pictures/lego01a.jpg"  width="800">
 
 <img src="pictures/L0010.jpg"  width="800">
 
+<img src="pictures/L0030.jpg"  width="800">
+
 <img src="pictures/lego01b.jpg"  width="800">
 
 <img src="pictures/lego01c.jpg"  width="800">
-
-<img src="pictures/L0021.jpg"  width="800">
-
-<img src="pictures/X-01.jpg"  width="800">
-
-<img src="pictures/L0030.jpg"  width="800">
 
 <img src="pictures/L0031.jpg"  width="800">
 
@@ -25,13 +20,11 @@
 
 <img src="pictures/X-02.jpg"  width="800">
 
-<img src="pictures/L0032.jpg"  width="800">
-
 <img src="pictures/L0033.jpg"  width="800">
 
-<img src="pictures/lego02b.jpg"  width="800">
-
 <img src="pictures/L0040.jpg"  width="800">
+
+<img src="pictures/lego02b.jpg"  width="800">
 
 <img src="pictures/X-03.jpg"  width="800">
 
