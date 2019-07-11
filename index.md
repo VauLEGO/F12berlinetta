@@ -1,7 +1,7 @@
 ---
 ---
 <h3><a href="https://github.com/VauLEGO/Ferrari40191/">GitHub</a> ---
-<a href="https://Ferrari40191.vlsm.org/">GitHub Pages</a></h3>
+<a href="https://f12.ferrari.vlsm.org/">GitHub Pages</a></h3>
 
 <a href="https://lego.com/"><img src="pictures/lego06a.jpg"  width="800"></a>
 
