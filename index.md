@@ -1,5 +1,7 @@
 ---
 ---
+<h2>Lihat juga <a href="https://rahmatm.samik-ibrahim.vlsm.org/2015/03/lego-shell-seberapa-rumitkah.html">Lego 
+(Shell): Seberapa Rumitkah?</a></h2>
 <h3><a href="https://github.com/VauLEGO/Ferrari40191/">GitHub</a> ---
 <a href="https://f12.ferrari.vlsm.org/">GitHub Pages</a></h3>
 
